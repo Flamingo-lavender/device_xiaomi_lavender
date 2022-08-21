@@ -24,5 +24,7 @@ PRODUCT_NAME := flamingo_lavender
 PRODUCT_MODEL := Redmi Note 7
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR_PRODUCT_NAME := lavender
+TARGET_BUILD_LAWNCHAIR := false
+TARGET_BUILD_MATLOG := false
 
 endif
